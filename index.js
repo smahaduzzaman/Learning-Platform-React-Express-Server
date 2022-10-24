@@ -15,6 +15,10 @@ app.get('/courses', (req, res) => {
     res.send(courses);
 })
 
+app.get('/categories', (req, res) => {
+    res.send(categories);
+})
+
 app.get('/tutorials', (req, res) => {
     res.send(tutorials);
 })
