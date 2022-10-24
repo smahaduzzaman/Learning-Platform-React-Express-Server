@@ -21,7 +21,7 @@ app.get('/tutorials', (req, res) => {
 
 app.get('/courses/:id', (req, res) => {
     const id = req.params.id;
-    if (id === '02') {
+    if (id === '08') {
         res.send(courses);
     } else {
         const course = courses.filter(ct => ct.courses === id);

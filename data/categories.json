@@ -1,0 +1,34 @@
+[
+    {
+        "id": "01",
+        "name": "Modern Javascript - ES6"
+    },
+    {
+        "id": "02",
+        "name": "React JS With Project"
+    },
+    {
+        "id": "03",
+        "name": "Node JS With Express Js"
+    },
+    {
+        "id": "04",
+        "name": "NoSql Database With MongoDB"
+    },
+    {
+        "id": "05",
+        "name": "Firebase Authentication With Premium Subscriptions"
+    },
+    {
+        "id": "06",
+        "name": "Tailwind CSS with 3 Components Libraries"
+    },
+    {
+        "id": "07",
+        "name": "Advanced Web Design With Projects"
+    },
+    {
+        "id": "08",
+        "name": "All Courses"
+    }
+]
