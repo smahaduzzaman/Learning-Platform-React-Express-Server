@@ -6,6 +6,7 @@ const port = process.env.PORT || 5000;
 app.use(cors());
 
 const courses = require('./data/courses.json');
+const categories = require('./data/categories.json');
 const tutorials = require('./data/tutorials.json');
 
 app.get('/', (req, res) => {
@@ -40,5 +41,5 @@ app.get('/tutorials/:id', (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log(`ProTech Edu Server Running ${port}`)
+    console.log(`ProTech Edu Server is Running: ${port}`)
 })
