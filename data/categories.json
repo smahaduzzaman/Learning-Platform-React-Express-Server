@@ -13,22 +13,38 @@
     },
     {
         "id": "04",
-        "name": "NoSql Database With MongoDB"
+        "name": "NoSql Database MongoDB"
     },
     {
         "id": "05",
-        "name": "Firebase Authentication With Premium Subscriptions"
+        "name": "Firebase Authentication"
     },
     {
         "id": "06",
-        "name": "Tailwind CSS with 3 Components Libraries"
+        "name": "Tailwind CSS"
     },
     {
         "id": "07",
-        "name": "Advanced Web Design With Projects"
+        "name": "Advanced Web Design"
     },
     {
         "id": "08",
+        "name": "Python and Django"
+    },
+    {
+        "id": "09",
+        "name": "Data Structures"
+    },
+    {
+        "id": "10",
+        "name": "PHP With Laravel"
+    },
+    {
+        "id": "11",
+        "name": "React Native With Project"
+    },
+    {
+        "id": "12",
         "name": "All Courses"
     }
 ]
